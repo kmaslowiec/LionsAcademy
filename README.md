@@ -6,4 +6,4 @@
 
 ## The task three can be found under class TaskThree
 
-## All ca be printed and tested using class TasksRun
+## All can be printed and tested using class TasksRun
